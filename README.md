@@ -5,5 +5,5 @@
 - I like to play sports, lift weights, and hang out with friends
 - I am currently learning Java
 
-<!-- Added Personal Information -->
+
 ![OIP](https://github.com/user-attachments/assets/038de202-be91-4075-bafe-88cac0e69b76)
